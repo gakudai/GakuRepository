@@ -19,6 +19,7 @@ namespace OreOreLibrary
         /// <param name="saveFolderPath">保存場所</param>
         /// <param name="fileName">保存ファイル名</param>
         /// <param name="extension">拡張子</param>
+        /// 
         public static void Download(string url, string saveFolderPath, string fileName, string extension)
         {
             var hashCode = url.GetHashCode();
