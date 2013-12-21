@@ -8,5 +8,6 @@ namespace OreOreLibrary
 {
     class Class1
     {
+        //testにしとく！
     }
 }
